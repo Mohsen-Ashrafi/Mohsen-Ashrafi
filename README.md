@@ -1,15 +1,10 @@
 🌐 Socials:
 __________________________________________________________________________________________________________________________________________
-
-[![اینستاگرام](https://upload.wikimedia.org/wikipedia/commons/6/60/Instagram_logo_2016.svg)](https://www.instagram.com/_mhsn.ashrfi_)
-[![لینکدین](https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/www.linkedin.com/in/mohsen-ashrafi-961353362)
-
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/6/60/Instagram_logo_2016.svg)](https://www.instagram.com/_mhsn.ashrfi_)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/7/7e/LinkedIn_Logo_2013.svg)](https://www.linkedin.com/in/www.linkedin.com/in/mohsen-ashrafi-961353362)
 
 💻 Tech Stack:
 __________________________________________________________________________________________________________________________________________
-
-# Tech Stack 💻
-
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,8 +34,6 @@ ________________________________________________________________________________
 
 📊 GitHub Stats:
 __________________________________________________________________________________________________________________________________________
-# GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohsen-Ashrafi&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical" alt="Your GitHub Stats" />
 </p>
