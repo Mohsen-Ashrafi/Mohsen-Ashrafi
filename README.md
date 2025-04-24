@@ -5,7 +5,7 @@ ________________________________________________________________________________
 
 💻 Tech Stack:
 __________________________________________________________________________________________________________________________________________
-<p align="center">
+<p align="left">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   </a>
